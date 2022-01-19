@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo><title>Islamicate surgical manuscript, red leather flapped binding, faded golden embossing, painted geometric images on first and last pages.</title></titleInfo>
+  <physicalDescription><note>Islamicate surgical manuscript, red leather flapped binding, faded golden embossing, painted geometric images on first and last pages.</note></physicalDescription>
+  <note type="acquisition">Donated from the estate of George C. McGhee.</note>
+  <note type="action">This book needs to be identified and described.</note>
+  <relatedItem type="host"><titleInfo><title>University of Oklahoma History of Science Collections</title></titleInfo></relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/NKC/1.0/" />
+  <language><languageTerm type="code" authority="iso639-2b">ara</languageTerm></language>
+  <typeOfResource manuscript="yes">text</typeOfResource>
+  <identifier type="local">HOS1_McGhee_Arabic_MS_03</identifier>
+</mods>
