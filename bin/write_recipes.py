@@ -76,12 +76,12 @@ for mf in mods_files:
 
     # slicing from "data/page_slug.tif"
     page_slug=page_path[5:-4]
-    page_jpg= "%s/derivative/%s/jpeg_040_antialias/%s.jpg" % (bag_location, bag_name, page_slug)
+    page_jpg= "%s/derivative/%s/0.4/%s.jpg" % (bag_location, bag_name, page_slug)
   
 
     # Use object ETag as MD5 hash. It will be in most cases. 
     s3_meta = s3.list_objects(Bucket="ul-bagit", 
-                              Prefix="derivative/%s/jpeg_040_antialias/%s.jpg" % (bag_name, page_slug), 
+                              Prefix="derivative/%s/0.4/%s.jpg" % (bag_name, page_slug), 
                               MaxKeys=1)
     # remove first and last chars, string delivered quoted. 
     jpg_hash = s3_meta['Contents'][0]['ETag'][1:-1]

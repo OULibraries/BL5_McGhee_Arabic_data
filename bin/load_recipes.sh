@@ -7,5 +7,5 @@ fi
 
 for recipe in `ls recipes/*.json`
 do
-  echo drush --root="${1}"  --user=1 oubib --recipe_uri="${2}/${recipe}" --parent_collection=oku:ifirs --tmp_dir=${3} --pid_namespace=oku
+  echo drush --root="${1}"  --user=1 oubib --recipe_uri="${2}/${recipe}" --parent_collection=oku:bl5m --tmp_dir=${3} --pid_namespace=oku
 done
