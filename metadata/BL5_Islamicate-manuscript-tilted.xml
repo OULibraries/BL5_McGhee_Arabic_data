@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo><title>Islamicate manuscript, large tilted spine with mended brown cover</title></titleInfo>
+  <note type="acquisition">HOS1 - Islamicate - MS - 001</note>
+  <note type="action">This book needs to be identified and described.</note>
+  <relatedItem type="host"><titleInfo><title>University of Oklahoma History of Science Collections</title></titleInfo></relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/NKC/1.0/" />
+  <typeOfResource manuscript="yes">text</typeOfResource>
+  <identifier type="local">BL5_Islamicate-manuscript-tilted</identifier>
+</mods>
